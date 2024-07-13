@@ -1,3 +1,6 @@
+#100DaysOfCode
+#TheAppBrewery
+
 logo = """
 .------.            _     _            _    _            _    
 |A_  _ |.          | |   | |          | |  (_)          | |   
