@@ -1,3 +1,6 @@
+#100DaysOfCode
+#TheAppBrewery
+
 from turtle import Screen
 from ball import Ball
 from movement import Movement
