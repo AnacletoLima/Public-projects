@@ -1,3 +1,6 @@
+#100DaysOfCode
+#TheAppBrewery
+
 import time
 from turtle import Screen
 from cross_turtle import CrossTurtle
