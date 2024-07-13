@@ -1,3 +1,6 @@
+#100DaysOfCode
+#TheAppBrewery
+
 from turtle import Turtle
 
 FONT = ('Arial', 15, 'normal')
