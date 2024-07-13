@@ -1,3 +1,6 @@
+#100DaysOfCode
+#TheAppBrewery
+
 from turtle import Screen
 from paddle import Paddle
 
