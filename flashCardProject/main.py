@@ -1,3 +1,6 @@
+#100DaysOfCode
+#TheAppBrewery
+
 from tkinter import *
 import pandas
 import random
