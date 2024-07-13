@@ -1,3 +1,6 @@
+#100DaysOfCode
+#TheAppBrewery
+
 from turtle import Turtle
 ALIGNMENT = "center"
 FONT = ('Courier', 12, 'normal')
